@@ -1,0 +1,1 @@
+<script src="https://cdn.jsdelivr.net/npm/clean-mla-gdoc@v1.2.4/dist/clean-mla-gdoc.min.js"></script>
